@@ -20,4 +20,4 @@ The samples requires the below requirements to run.
 
 ### Demo
 
-* Click the link for demo [https://expense-log.netlify.app/]
+* Click the link for demo (https://expense-log.netlify.app/)
