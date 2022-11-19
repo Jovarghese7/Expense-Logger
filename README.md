@@ -17,3 +17,7 @@ The samples requires the below requirements to run.
 * Clone this repository.
 * Open the command prompt from Application root directory.
 * Run the demo using `npm start` command.
+
+### Demo
+
+* Click the link for demo [https://expense-log.netlify.app/]
